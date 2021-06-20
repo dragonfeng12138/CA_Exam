@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Exam">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jxl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/arcsoft-sdk-face-2.2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/beautyeye_lnf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bridj-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-5.1.34-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webcam-capture-0.3.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
